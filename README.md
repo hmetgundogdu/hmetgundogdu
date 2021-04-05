@@ -25,7 +25,7 @@ class MailClientBase {
 class YourMailClient : protected MailClientBase {   ...   };
 class YourMail : public IMail {  ...  };
 
-assert(new YourMailClient("fooBoo", "123456")->Send(new YourMail("hmetgundogdu@gmail.com", "", nullptr))->IsSuccess());
+assert(!(new YourMailClient("fooBoo", "123456")->Send(new YourMail("hmetgundogdu@gmail.com", "", nullptr))->IsSuccess()));
 
 return 0;
 ```
