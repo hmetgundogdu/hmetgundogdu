@@ -1,7 +1,5 @@
 ### Hi there 👋
-This is Ahmet from Turkey, i love programing, tech, and such as things. I had try creating 
-simple and special things  and i'm trying. Cause thats the life, we going to die and we try
-to leave some things to behind us.
+Hi, I'm Ahmet from Turkey. I'm passionate about programming and technology. I enjoy building simple yet impactful projects, always striving to create something meaningful. Life is short, and while we're here, I believe it's important to leave a positive mark behind.
 
 ``` c++
 class IMail() {
